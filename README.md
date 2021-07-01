@@ -34,6 +34,7 @@ Executing the Macro
 4.	Follow the prompts to choose the directory containing the neuron images and the directory containing the nuclear staining images. 
 5.	Choose the folder in which you would like the result files to be saved.
 6.	Do not move your mouse or operate other software while the macro executes its operations. When all calculations are complete, the log will display “Results have been saved in the selected directory.”
+
 Calculating the Degeneration Index from the Result Files
 1.	Open the result file titled Fragmented_Neurite_Area.csv and the result file titled Total_Neurite_Area.csv.
 2.	Divide the values in column C of Fragmented_Neurite_Area.CSV by the corresponding values in column C of the Total_Neurite_Area.csv to obtain the Degeneration Index values of all images.
