@@ -1,5 +1,5 @@
 # kraemerlab
-***Please note that the EnhancedDI macro has only been tested for use with a pc running Windows 10.***
+***Please note that the ANDI macro has only been tested for use with a pc running Windows 10.***
 
 Downloading Needed Files
 1.	Download the macro file, which is formatted as an .ijm file, to the directory of your choosing.
@@ -30,7 +30,7 @@ ii.	Example file names for directory containing images of nuclear staining:
 Executing the Macro
 1.	Open FIJI. 
 2.	Click Plugins-->Macros--> Run
-3.	Select the EnhancedDI.ijm file that you previously saved to a directory of your choosing, and click “open”
+3.	Select the ANDI.ijm file that you previously saved to a directory of your choosing, and click “open”
 4.	Follow the prompts to choose the directory containing the neuron images and the directory containing the nuclear staining images. 
 5.	Choose the folder in which you would like the result files to be saved.
 6.	Do not move your mouse or operate other software while the macro executes its operations. When all calculations are complete, the log will display “Results have been saved in the selected directory.”
